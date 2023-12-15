@@ -39,3 +39,12 @@ The notebook starts with data cleaning and preprocessing, followed by explorator
 
 ## How to Run the Project
 To run this analysis, you will need to have Python installed along with the necessary libraries. Clone the repository and launch Jupyter Notebook to view and interact with the analysis:
+
+## Main Findings:
+
+Assuming all other factors remain constant, this function means that the house price in King County increases by approximately $268.47 per each additional square foot of space above the ground level. The relationship between home price and above square footage can be modeled by the following function:
+
+_f(x)=268.47x+59953.19_
+![afb46a0c-425d-467e-b49c-0d3c8bae3963](https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/f46e7232-a761-43c8-aaec-ca93fdb02b22)
+
+
