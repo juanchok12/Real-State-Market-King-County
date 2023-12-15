@@ -47,4 +47,5 @@ Assuming all other factors remain constant, this function means that the house p
 _f(x)=268.47x+59953.19_
 ![afb46a0c-425d-467e-b49c-0d3c8bae3963](https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/f46e7232-a761-43c8-aaec-ca93fdb02b22)
 
+R^2=49.29% suggests that the variability in the house prices can be explained by the square footage of the home (independent varaible 'sqft_living'). In other words, the squre footage of the living space accounts for nearly half of the observed varaition in house prices. 
 
