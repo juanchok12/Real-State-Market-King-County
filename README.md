@@ -6,7 +6,8 @@ This project is a comprehensive analysis of the real estate market in Seattle. U
 ## Objectives
 - To identify patterns and trends in the real estate prices in Seattle.
 - To analyze the relationship between housing features and market prices.
-- To provide insights into the best times to buy or sell properties.
+- Quantify the relationship between housing prices and first floor square footing.
+- Compare statistical metrics of properties with vs. without waterfront views. 
 
 ## Data
 The analysis is conducted using a dataset that includes information on housing features, sale prices, and dates of transactions. The dataset contains the following key columns:
@@ -30,15 +31,24 @@ The analysis is conducted using a dataset that includes information on housing f
 - `Long`: Longitude coordinate
 
 ## Methodology
-The notebook starts with data cleaning and preprocessing, followed by exploratory data analysis (EDA) to understand the distribution and relationship of variables. We use visualizations to support our analysis and employ statistical methods to draw conclusions.
+The notebook starts with 
+* Data cleaning
+* Data wrangling, followed by
+* exploratory data analysis (EDA) to understand the distribution and relationship of variables.
+  * Linear regression
+  * Coefficient determination
+  * Ridge regression
+  * Finding the first min, first quartile, median, third quartile, and max through boxplots. 
+* Visualizations to support our analysis and employ statistical methods to draw conclusions.
 
 ## Tools Used
-- **Jupyter Notebook**: For interactive data analysis and visualization.
+- **Jupyter Notebook**: As the coding canvas for python programming.
+- **Excel**: As the main database file to extra and manipulate a dataframe from. 
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib/Seaborn**: For creating static, interactive, and informative visualizations.
+- **sklearn**: For for linear and polynomial regression modeling, machine learning, and standardization.
 
-## How to Run the Project
-To run this analysis, you will need to have Python installed along with the necessary libraries. Clone the repository and launch Jupyter Notebook to view and interact with the analysis:
+
 
 ## Main Findings:
 
