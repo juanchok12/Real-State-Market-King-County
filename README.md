@@ -1,5 +1,5 @@
 # Seattle Real Estate Market Analysis
-<img scr="https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/65883b58-bf17-4050-a40c-2466061a9145" width="50%"/>
+<img scr="https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/65883b58-bf17-4050-a40c-2466061a9145" width="700"/>
 
 ## Overview
 This project is a comprehensive analysis of the real estate market in Seattle. Using a Jupyter Notebook, we explore various trends, pricing factors, and the impact of economic indicators on the housing market.
