@@ -38,7 +38,7 @@ The notebook starts with
   * Linear regression
   * Coefficient determination
   * Ridge regression
-  * Finding the first min, first quartile, median, third quartile, and max through boxplots. 
+  * Finding the min, first quartile, median, third quartile, and max through boxplots. 
 * Visualizations to support our analysis and employ statistical methods to draw conclusions.
 
 ## Tools Used
