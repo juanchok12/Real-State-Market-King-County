@@ -1,4 +1,4 @@
-# Seattle Real Estate Market Analysis
+# King County Real Estate Market Analysis
 
 ## Overview
 This project is a comprehensive analysis of the real estate market in Seattle. Using a Jupyter Notebook, we explore various trends, pricing factors, and the impact of economic indicators on the housing market.
