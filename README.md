@@ -1,6 +1,6 @@
 # Seattle Real Estate Market Analysis
 
-<img src=https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/8e6b7e27-daf5-4f6b-816b-e4225cd9a2c9 width="100%" alt="data_source">
+<img src=https://github.com/juanchok12/Real-State-Market-King-County/assets/116334702/8e6b7e27-daf5-4f6b-816b-e4225cd9a2c9 width="85%" alt="data_source">
 
 
 ## Overview
